@@ -19,3 +19,5 @@ Um jogo da cobrinha desenvolvido com **HTML**, **CSS** e **JavaScript**, recrian
 
 Este projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de desenvolvimento web, lógica de programação e manipulação de eventos utilizando JavaScript puro.
 
+Acesse o Game aqui: https://vikzzy-code.github.io/Snake-Game/
+
